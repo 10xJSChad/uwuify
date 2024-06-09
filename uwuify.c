@@ -18,6 +18,7 @@ char* interjections[] = {
     "*whispers to self", "x3", ";;w;;"
 };
 
+
 bool roll(int chance) {
     return RAND_RANGE(0, 100) < chance;
 }
