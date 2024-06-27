@@ -15,7 +15,7 @@ char* interjections[] = {
     "uwu", "owo", "OwO", "UwU",
     "nyaa", "rawr", "*nuzzles*", "*pounces*",
     "(・`ω´・)", "teehee", "hehe",
-    "*whispers to self", "x3", ";;w;;"
+    "*whispers to self*", "x3", ";;w;;"
 };
 
 
